@@ -1,2 +1,2 @@
 # Projects
-These are my personal projects I created for my learning 
+These are personal projects I created for my learning 
